@@ -1,5 +1,5 @@
 # wallet-ts-example
-Example for interfacing with the wasm wallet 
+Example for interfacing with the wallet-core wasm from typescript
 
 # Usage
 Make sure you have a local node running with the default gensis file
