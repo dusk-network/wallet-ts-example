@@ -3,7 +3,7 @@ Example for interfacing with the wasm wallet
 
 # Usage
 Make sure you have a local node running with the default gensis file
-```ts
+```
 deno run --allow-read --allow-net main.ts
 ```
 
